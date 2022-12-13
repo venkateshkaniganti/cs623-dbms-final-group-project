@@ -5,7 +5,7 @@
 
 
 ## ERD
-<img src="./erd.png"/>
+<img src="./ERD_DIAGRAM.png"/>
 
 ## Tables before execution of code
 <img src="./TablesBefore.png" />
